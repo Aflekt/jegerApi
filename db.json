@@ -8,6 +8,16 @@
         { "id": 1, "body": "some comment", "postId": 1 },
         { "id": 2, "body": "some comment", "postId": 1 }
     ],
+    "proveskudd": [
+        {
+            "antall": 15,
+            "dato": "2019-09-24"
+        },
+        {
+            "antall": 15,
+            "dato": "2019-09-23"
+        }
+    ],
     "profile": {
         "name": "typicode"
     }
