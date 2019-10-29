@@ -26,7 +26,7 @@
             {
                 "dato": "2019-09-24",
                 "vaapennr": "15461234",
-                "godkjent": "true"
+                "godkjent": true
             }],
         "vaapen":
             [
