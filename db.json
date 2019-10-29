@@ -1,5 +1,5 @@
 {
-    "Jegerinfo/1": {
+    "Jegerinfo1": {
         "navn": "Jeger Jegersen",
         "fodselsaar": 1985,
         "jegernr": "00399561",
@@ -41,7 +41,7 @@
                 }
             ]
     },
-    "Jegerinfo/2": {
+    "Jegerinfo2": {
         "navn": "Magnus Storjeger",
         "fodselsaar": 1992,
         "jegernr": "00399562",
