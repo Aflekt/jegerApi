@@ -236,14 +236,14 @@
     },
     "Jegerinfo3": {
         "jegerinfo": {
-            "navn": "Jeger Jegersen",
+            "navn": "Magnus Jegersen",
             "fodselsaar": 1985,
             "jegernr": "00399561",
             "jaktaar": "2019/2020",
             "betalt": true,
             "jakttype": "Alt vilt, unntatt elg, hjort og villrein",
             "lisens-arter": "Jerv, Gaupe, Bjørn, Ulv",
-            "vaapenkort-url": "",
+            "vaapenkort-url": "https://jegerkontroll.brreg.no/sjekkJeger?id=bdaf07b0c11147109e64ccb51955d2e1",
             "proveskudd": [],
             "skyteprove": [],
             "vaapen":
