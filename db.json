@@ -1,63 +1,65 @@
 {
     "Jegerinfo1": {
-        "navn": "Jeger Jegersen",
-        "fodselsaar": 1985,
-        "jegernr": "00399561",
-        "jaktaar": "2019/2020",
-        "betalt": true,
-        "jakttype": "Alt vilt, unntatt elg, hjort og villrein",
-        "lisens-arter": "Jerv, Gaupe, Bjørn, Ulv",
-        "vaapenkort-url": "",
-        "proveskudd": [
-            {
-                "antall": 15,
-                "dato": "2019-09-24"
-            },
-            {
-                "antall": 5,
-                "dato": "2019-09-23"
-            },
-            {
-                "antall": 10,
-                "dato": "2019-09-21"
-            },
-            {
-                "antall": 15,
-                "dato": "2018-06-24"
-            },
-            {
-                "antall": 5,
-                "dato": "2018-06-23"
-            },
-            {
-                "antall": 10,
-                "dato": "2018-05-21"
-            }
-        ],
-        "skyteprove": [
-            {
-                "dato": "2019-09-24",
-                "vaapennr": "15461234",
-                "godkjent": true
-            }],
-        "vaapen":
-            [
+        "jegerinfo": {
+            "navn": "Jeger Jegersen",
+            "fodselsaar": 1985,
+            "jegernr": "00399561",
+            "jaktaar": "2019/2020",
+            "betalt": true,
+            "jakttype": "Alt vilt, unntatt elg, hjort og villrein",
+            "lisens-arter": "Jerv, Gaupe, Bjørn, Ulv",
+            "vaapenkort-url": "",
+            "proveskudd": [
                 {
-                    "lopenr": 1,
-                    "vaapennr": "15461234",
-                    "navn": "Tikka",
-                    "kaliber": "30-06",
-                    "godkjent": true,
-                    "godkjentdato": "24-10-2019"
+                    "antall": 15,
+                    "dato": "2019-09-24"
                 },
                 {
-                    "lopenr": 2,
-                    "vaapennr": "1234",
-                    "navn": "Sako",
-                    "kaliber": "6,5x55",
-                    "godkjent": false
+                    "antall": 5,
+                    "dato": "2019-09-23"
+                },
+                {
+                    "antall": 10,
+                    "dato": "2019-09-21"
+                },
+                {
+                    "antall": 15,
+                    "dato": "2018-06-24"
+                },
+                {
+                    "antall": 5,
+                    "dato": "2018-06-23"
+                },
+                {
+                    "antall": 10,
+                    "dato": "2018-05-21"
                 }
-            ]
+            ],
+            "skyteprove": [
+                {
+                    "dato": "2019-09-24",
+                    "vaapennr": "15461234",
+                    "godkjent": true
+                }],
+            "vaapen":
+                [
+                    {
+                        "lopenr": 1,
+                        "vaapennr": "15461234",
+                        "navn": "Tikka",
+                        "kaliber": "30-06",
+                        "godkjent": true,
+                        "godkjentdato": "24-10-2019"
+                    },
+                    {
+                        "lopenr": 2,
+                        "vaapennr": "1234",
+                        "navn": "Sako",
+                        "kaliber": "6,5x55",
+                        "godkjent": false
+                    }
+                ]
+        }
     },
     "Jegerinfo2": {
         "navn": "Magnus Storjeger",
