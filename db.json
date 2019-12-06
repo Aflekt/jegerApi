@@ -64,7 +64,7 @@
     "Jegerinfo2": {
         "navn": "Magnus Storjeger",
         "fodselsaar": 1992,
-        "jegernr": "00399562",
+        "jegernr": "00399565",
         "jaktaar": "2019/2020",
         "betalt": true,
         "jakttype": "Alt vilt, unntatt elg, hjort og villrein",
@@ -240,7 +240,7 @@
         "jegerinfo": {
             "navn": "Magnus Jegersen",
             "fodselsaar": 1985,
-            "jegernr": "00399561",
+            "jegernr": "00399511",
             "jaktaar": "2019/2020",
             "betalt": true,
             "jakttype": "Alt vilt, unntatt elg, hjort og villrein",
