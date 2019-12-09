@@ -38,14 +38,14 @@
             "skyteprove": [
                 {
                     "dato": "2019-09-24",
-                    "vaapennr": "15461234",
+                    "vaapennr": "5214657",
                     "godkjent": true
                 }],
             "vaapen":
                 [
                     {
                         "lopenr": 1,
-                        "vaapennr": "15461234",
+                        "vaapennr": "5214657",
                         "navn": "Tikka",
                         "kaliber": "30-06",
                         "godkjent": true,
@@ -62,179 +62,181 @@
         }
     },
     "Jegerinfo2": {
-        "navn": "Magnus Storjeger",
-        "fodselsaar": 1992,
-        "jegernr": "00399565",
-        "jaktaar": "2019/2020",
-        "betalt": true,
-        "jakttype": "Alt vilt, unntatt elg, hjort og villrein",
-        "lisens-arter": "Jerv, Gaupe, Bjørn, Ulv",
-        "vaapenkort-url": "",
-        "proveskudd": [
-            {
-                "antall": 15,
-                "dato": "2019-09-24"
-            },
-            {
-                "antall": 5,
-                "dato": "2019-09-23"
-            },
-            {
-                "antall": 10,
-                "dato": "2019-09-21"
-            },
-            {
-                "antall": 15,
-                "dato": "2018-06-24"
-            },
-            {
-                "antall": 5,
-                "dato": "2018-06-23"
-            },
-            {
-                "antall": 10,
-                "dato": "2018-05-21"
-            },
-            {
-                "antall": 15,
-                "dato": "2017-06-24"
-            },
-            {
-                "antall": 5,
-                "dato": "2017-06-23"
-            },
-            {
-                "antall": 10,
-                "dato": "2017-05-21"
-            },
-            {
-                "antall": 15,
-                "dato": "2016-06-24"
-            },
-            {
-                "antall": 5,
-                "dato": "2016-06-23"
-            },
-            {
-                "antall": 10,
-                "dato": "2016-05-21"
-            },
-            {
-                "antall": 15,
-                "dato": "2015-06-24"
-            },
-            {
-                "antall": 5,
-                "dato": "2015-06-23"
-            },
-            {
-                "antall": 10,
-                "dato": "2015-05-21"
-            },
-            {
-                "antall": 15,
-                "dato": "2014-06-24"
-            },
-            {
-                "antall": 5,
-                "dato": "2014-06-23"
-            },
-            {
-                "antall": 10,
-                "dato": "2014-05-21"
-            },
-            {
-                "antall": 15,
-                "dato": "2018-06-24"
-            },
-            {
-                "antall": 5,
-                "dato": "2018-06-23"
-            },
-            {
-                "antall": 10,
-                "dato": "2018-05-21"
-            },
-            {
-                "antall": 15,
-                "dato": "2018-06-24"
-            },
-            {
-                "antall": 5,
-                "dato": "2018-06-23"
-            },
-            {
-                "antall": 10,
-                "dato": "2018-05-21"
-            },
-            {
-                "antall": 15,
-                "dato": "2018-06-24"
-            },
-            {
-                "antall": 5,
-                "dato": "2018-06-23"
-            },
-            {
-                "antall": 10,
-                "dato": "2018-05-21"
-            },
-            {
-                "antall": 15,
-                "dato": "2018-06-24"
-            },
-            {
-                "antall": 5,
-                "dato": "2018-06-23"
-            },
-            {
-                "antall": 10,
-                "dato": "2018-05-21"
-            }
-        ],
-         "skyteprove": [
-            {
-                "dato": "2019-09-24",
-                "vaapennr": "123456",
-                "godkjent": true
-            },
-             {
-                "dato": "2018-09-24",
-                "vaapennr": "123456",
-                "godkjent": true
-            },
-             {
-                "dato": "2017-09-24",
-                "vaapennr": "123456",
-                "godkjent": true
-            },
-             {
-                "dato": "2016-09-24",
-                "vaapennr": "15461234",
-                "godkjent": true
-            },
-             {
-                "dato": "2015-09-24",
-                "vaapennr": "123456",
-                "godkjent": true
-            },
-             {
-                "dato": "2014-09-24",
-                "vaapennr": "123456",
-                "godkjent": true
-            }
-         ],
-        "vaapen":
-            [
+      "jegerinfo": {
+          "navn": "Magnus Trejeger",
+            "fodselsaar": 1992,
+            "jegernr": "00399565",
+            "jaktaar": "2019/2020",
+            "betalt": true,
+            "jakttype": "Alt vilt, unntatt elg, hjort og villrein",
+            "lisens-arter": "Jerv, Gaupe, Bjørn, Ulv",
+            "vaapenkort-url": "",
+            "proveskudd": [
                 {
-                    "lopenr": 1,
-                    "vaapennr": "123456",
-                    "navn": "Barrett M82",
-                    "kaliber": "12.7x99mm",
-                    "godkjent": true,
-                    "godkjentdato": "24-10-2019"
+                    "antall": 15,
+                    "dato": "2019-09-24"
+                },
+                {
+                    "antall": 5,
+                    "dato": "2019-09-23"
+                },
+                {
+                    "antall": 10,
+                    "dato": "2019-09-21"
+                },
+                {
+                    "antall": 15,
+                    "dato": "2018-06-24"
+                },
+                {
+                    "antall": 5,
+                    "dato": "2018-06-23"
+                },
+                {
+                    "antall": 10,
+                    "dato": "2018-05-21"
+                },
+                {
+                    "antall": 15,
+                    "dato": "2017-06-24"
+                },
+                {
+                    "antall": 5,
+                    "dato": "2017-06-23"
+                },
+                {
+                    "antall": 10,
+                    "dato": "2017-05-21"
+                },
+                {
+                    "antall": 15,
+                    "dato": "2016-06-24"
+                },
+                {
+                    "antall": 5,
+                    "dato": "2016-06-23"
+                },
+                {
+                    "antall": 10,
+                    "dato": "2016-05-21"
+                },
+                {
+                    "antall": 15,
+                    "dato": "2015-06-24"
+                },
+                {
+                    "antall": 5,
+                    "dato": "2015-06-23"
+                },
+                {
+                    "antall": 10,
+                    "dato": "2015-05-21"
+                },
+                {
+                    "antall": 15,
+                    "dato": "2014-06-24"
+                },
+                {
+                    "antall": 5,
+                    "dato": "2014-06-23"
+                },
+                {
+                    "antall": 10,
+                    "dato": "2014-05-21"
+                },
+                {
+                    "antall": 15,
+                    "dato": "2018-06-24"
+                },
+                {
+                    "antall": 5,
+                    "dato": "2018-06-23"
+                },
+                {
+                    "antall": 10,
+                    "dato": "2018-05-21"
+                },
+                {
+                    "antall": 15,
+                    "dato": "2018-06-24"
+                },
+                {
+                    "antall": 5,
+                    "dato": "2018-06-23"
+                },
+                {
+                    "antall": 10,
+                    "dato": "2018-05-21"
+                },
+                {
+                    "antall": 15,
+                    "dato": "2018-06-24"
+                },
+                {
+                    "antall": 5,
+                    "dato": "2018-06-23"
+                },
+                {
+                    "antall": 10,
+                    "dato": "2018-05-21"
+                },
+                {
+                    "antall": 15,
+                    "dato": "2018-06-24"
+                },
+                {
+                    "antall": 5,
+                    "dato": "2018-06-23"
+                },
+                {
+                    "antall": 10,
+                    "dato": "2018-05-21"
                 }
-            ]
+            ],
+            "skyteprove": [
+                {
+                    "dato": "2019-09-24",
+                    "vaapennr": "123456",
+                    "godkjent": true
+                },
+                {
+                    "dato": "2018-09-24",
+                    "vaapennr": "123456",
+                    "godkjent": true
+                },
+                {
+                    "dato": "2017-09-24",
+                    "vaapennr": "123456",
+                    "godkjent": true
+                },
+                {
+                    "dato": "2016-09-24",
+                    "vaapennr": "15461234",
+                    "godkjent": true
+                },
+                {
+                    "dato": "2015-09-24",
+                    "vaapennr": "123456",
+                    "godkjent": true
+                },
+                {
+                    "dato": "2014-09-24",
+                    "vaapennr": "123456",
+                    "godkjent": true
+                }
+            ],
+            "vaapen":
+                [
+                    {
+                        "lopenr": 1,
+                        "vaapennr": "123456",
+                        "navn": "Barrett M82",
+                        "kaliber": "12.7x99mm",
+                        "godkjent": true,
+                        "godkjentdato": "24-10-2019"
+                    }
+                ]
+        }
     },
     "Jegerinfo3": {
         "jegerinfo": {
@@ -252,7 +254,7 @@
                 [
                     {
                         "lopenr": 1,
-                        "vaapennr": "15461234",
+                        "vaapennr": "7761234",
                         "navn": "Tikka",
                         "kaliber": "30-06",
                         "godkjent": true,
@@ -260,7 +262,7 @@
                     },
                     {
                         "lopenr": 2,
-                        "vaapennr": "1234",
+                        "vaapennr": "8542",
                         "navn": "Sako",
                         "kaliber": "6,5x55",
                         "godkjent": false
