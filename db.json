@@ -7,8 +7,8 @@
             "jaktaar": "2019/2020",
             "betalt": true,
             "jakttype": "Alt vilt, unntatt elg, hjort og villrein",
-            "lisens-arter": "Jerv, Gaupe, Bjørn, Ulv",
-            "vaapenkort-url": "",
+            "lisensArter": "Jerv, Gaupe, Bjørn, Ulv",
+            "vaapenkortUrl": "",
             "proveskudd": [
                 {
                     "antall": 15,
@@ -35,7 +35,7 @@
                     "dato": "2018-05-21"
                 }
             ],
-            "skyteprove": [
+            "skyteprover": [
                 {
                     "dato": "2019-09-24",
                     "vaapennr": "5214657",
@@ -69,8 +69,8 @@
             "jaktaar": "2019/2020",
             "betalt": true,
             "jakttype": "Alt vilt, unntatt elg, hjort og villrein",
-            "lisens-arter": "Jerv, Gaupe, Bjørn, Ulv",
-            "vaapenkort-url": "",
+            "lisensArter": "Jerv, Gaupe, Bjørn, Ulv",
+            "vaapenkortUrl": "",
             "proveskudd": [
                 {
                     "antall": 15,
@@ -246,8 +246,8 @@
             "jaktaar": "2019/2020",
             "betalt": true,
             "jakttype": "Alt vilt, unntatt elg, hjort og villrein",
-            "lisens-arter": "Jerv, Gaupe, Bjørn, Ulv",
-            "vaapenkort-url": "https://jegerkontroll.brreg.no/sjekkJeger?id=bdaf07b0c11147109e64ccb51955d2e1",
+            "lisensArter": "Jerv, Gaupe, Bjørn, Ulv",
+            "vaapenkortUrl": "https://jegerkontroll.brreg.no/sjekkJeger?id=bdaf07b0c11147109e64ccb51955d2e1",
             "proveskudd": [],
             "skyteprove": [],
             "vaapen":
