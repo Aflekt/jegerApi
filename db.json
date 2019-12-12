@@ -2,7 +2,7 @@
     "Jegerinfo1": {
         "jegerinfo": {
             "navn": "Jeger Jegersen",
-            "fodselsaar": 1985,
+            "fodselsaar": "1985",
             "jegernr": "00399561",
             "jaktaar": "2019/2020",
             "betalt": true,
@@ -64,7 +64,7 @@
     "Jegerinfo2": {
       "jegerinfo": {
           "navn": "Magnus Trejeger",
-            "fodselsaar": 1992,
+            "fodselsaar": "1992",
             "jegernr": "00399565",
             "jaktaar": "2019/2020",
             "betalt": true,
@@ -241,7 +241,7 @@
     "Jegerinfo3": {
         "jegerinfo": {
             "navn": "Magnus Jegersen",
-            "fodselsaar": 1985,
+            "fodselsaar": "1985",
             "jegernr": "00399511",
             "jaktaar": "2019/2020",
             "betalt": true,
