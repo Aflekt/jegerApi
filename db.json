@@ -149,7 +149,7 @@
                     "dato": "2018-05-21"
                 }
             ],
-            "skyteprove": [
+            "skyteprover": [
                 {
                     "dato": "2019-09-24",
                     "vaapennr": "123456",
@@ -205,7 +205,7 @@
             "lisensArter": "Jerv, Gaupe, Bjørn, Ulv",
             "vaapenkortUrl": "https://jegerkontroll.brreg.no/sjekkJeger?id=bdaf07b0c11147109e64ccb51955d2e1",
             "proveskudd": [],
-            "skyteprove": [],
+            "skyteprover": [],
             "vaapen":
                 [
                     {
