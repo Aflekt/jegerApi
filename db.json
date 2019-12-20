@@ -19,8 +19,8 @@
     },
     "Jegerinfo1": {
       "jegerinfo": {
-          "navn": "Magnus Trejeger",
-            "fodselsaar": "1992",
+          "navn": "Jan Jeger",
+            "fodselsaar": "1985",
             "jegernr": "00399565",
             "jaktaar": "2019/2020",
             "betalt": true,
@@ -196,16 +196,29 @@
     },
     "Jegerinfo2": {
         "jegerinfo": {
-            "navn": "Magnus Jegersen",
-            "fodselsaar": "1985",
+            "navn": "Jan Jegersen",
+            "fodselsaar": "1987",
             "jegernr": "00399511",
             "jaktaar": "2019/2020",
             "betalt": true,
             "jakttype": "Alt vilt, unntatt elg, hjort og villrein",
             "lisensArter": "Jerv, Gaupe, Bjørn, Ulv",
             "vaapenkortUrl": "https://jegerkontroll.brreg.no/sjekkJeger?id=bdaf07b0c11147109e64ccb51955d2e1",
-            "proveskudd": [],
-            "skyteprover": [],
+            "proveskudd": [
+                {
+                    "antall": 15,
+                    "dato": "2019-09-24"
+                },
+                {
+                    "antall": 5,
+                    "dato": "2019-09-23"
+                }],
+            "skyteprover": [
+                {
+                    "dato": "2019-09-24",
+                    "vaapennr": "7761234",
+                    "godkjent": true
+                }],
             "vaapen":
                 [
                     {
