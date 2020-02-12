@@ -185,7 +185,7 @@
                 [
                     {
                         "lopenr": 1,
-                        "vaapennr": "123456",
+                        "vaapen": "123456",
                         "navn": "Barrett M82",
                         "kaliber": "12.7x99mm",
                         "godkjent": true,
@@ -224,18 +224,19 @@
                 [
                     {
                         "lopenr": 1,
-                        "vaapennr": "7761234",
+                        "nummer": "7761234",
                         "navn": "Tikka",
                         "kaliber": "30-06",
-                        "godkjent": true,
+                        "gyldigJaktaar": "2019",
                         "godkjentdato": "24-10-2019"
                     },
                     {
                         "lopenr": 2,
-                        "vaapennr": "8542",
+                        "nummer": "8542",
                         "navn": "Sako",
                         "kaliber": "6,5x55",
-                        "godkjent": false
+                        "gyldigJaktaar": "2019",
+                        "godkjentdato": "24-10-2019"
                     }
                 ]
         }
