@@ -195,10 +195,11 @@
         }
     },
     "Jegerinfo2": {
-        "jegerinfo": {
+        "jeger": {
             "navn": "Jan Jegersen",
             "fodselsaar": "1987",
-            "jegernr": "00399511",
+            "jegernr": "00399511"
+        },
             "jaktaar": "2019/2020",
             "betalt": true,
             "jakttype": "Alt vilt, unntatt elg, hjort og villrein",
@@ -238,5 +239,4 @@
                     }
                 ]
         }
-    }
 }
