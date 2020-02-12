@@ -223,7 +223,7 @@
             "vaapen":
                 [
                     {
-                        "lopenr": 1,
+                        "lopenr": "1",
                         "nummer": "7761234",
                         "navn": "Tikka",
                         "kaliber": "30-06",
@@ -231,7 +231,7 @@
                         "godkjentdato": "24-10-2019"
                     },
                     {
-                        "lopenr": 2,
+                        "lopenr": "2",
                         "nummer": "8542",
                         "navn": "Sako",
                         "kaliber": "6,5x55",
