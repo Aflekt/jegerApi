@@ -207,19 +207,23 @@
             "vaapenkortUrl": "https://jegerkontroll.brreg.no/sjekkJeger?id=bdaf07b0c11147109e64ccb51955d2e1",
             "proveskudd": [
                 {
-                    "antall": 15,
+                    "antall": 5,
                     "dato": "2019-09-24"
                 },
                 {
                     "antall": 5,
-                    "dato": "2019-09-23"
-                }],
-            "skyteprover": [
+                    "dato": "2019-09-24"
+                }, 
                 {
-                    "dato": "2019-09-24",
-                    "vaapennr": "7761234",
-                    "godkjent": true
-                }],
+                    "antall": 10,
+                    "dato": "2019-09-25"
+                },
+                {
+                    "antall": 20,
+                    "dato": "2019-09-25"
+                }
+            ],
+            "skyteprover": [],
             "vaapen":
                 [
                     {
